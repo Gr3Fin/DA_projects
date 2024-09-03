@@ -7,7 +7,7 @@ The goal of this analysis was to gain insights into customer demand across vario
 FoodHub earns revenue through commissions on orders, meaning higher order volumes directly increase profits. 
 Therefore, the key question was: <u>What are the customers' preferences?</u> By answering this question, we aim to better understand how to attract and retain more customers.   
 To achieve this, I have analyzed data consisting of order IDs, customer IDs, restaurant names, cuisine types, order prices, order ratings, delivery periods, 
-and preparation and delivery times. This data allowed me to form a basic understanding of customer demand regarding food ordering. 4
+and preparation and delivery times. This data allowed me to form a basic understanding of customer demand regarding food ordering.
 The dataset included nearly 1,900 customer orders. Customer feedback could have been accessed in two ways:
 - Direct: Ratings (1 – 5),
 - Indirect: Number of orders placed (popularity).
