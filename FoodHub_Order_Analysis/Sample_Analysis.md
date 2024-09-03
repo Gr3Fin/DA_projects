@@ -1,11 +1,11 @@
 ### Top 3 popular restaurants
-![top3](FoodHub_Order_Analysis/images/top3_rest_popul.png)
+![top3](https://github.com/Gr3Fin/DA_projects/blob/main/FoodHub_Order_Analysis/images/top3_rest_popul.png)
 
 -	Out of 176 restaurants the three most popular are: ‘Shake Shack’, ‘The Meatball Shop’, and ‘Blue Ribbon Sushi’.
 -	Nearly 12% of orders are placed at ‘Shake Shack’ restaurant.
 
 ### Cuisne type popularity
-![popularity](FoodHub_Order_Analysis/images/cuisine_pop_percent.png)
+![popularity](https://github.com/Gr3Fin/DA_projects/blob/main/FoodHub_Order_Analysis/images/cuisine_pop_percent.png)
 
 - The most popular cuisine is American (30.87%), followed by Japanese, Italian and Chinese.
 -	Collectively, these four cuisines represent 83% of all orders.
@@ -29,4 +29,4 @@
 |83287	|9.0	|15.48	|7.29	|9.02	|9.41	|14.5	|18.24	|29.10|
 
 - Top 3 customers' cuisine types
-  ![top3_customers](FoodHub_Order_Analysis/images/top3cust_vs_cuisine.png)
+  ![top3_customers](https://github.com/Gr3Fin/DA_projects/blob/main/FoodHub_Order_Analysis/images/top3cust_vs_cuisine.png)
