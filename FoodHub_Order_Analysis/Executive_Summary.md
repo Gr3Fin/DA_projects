@@ -1,5 +1,3 @@
-# FoodHub Order Analysis
-
 ## Executive Summary
 
 ### Problem summary:  
