@@ -1,6 +1,8 @@
 ## Executive Summary
 
 ### Problem summary:  
+<div align='justify'>
+  
 The goal of this analysis was to gain insights into customer demand across various restaurants to help FoodHub enhance its customer experience and business performance. 
 FoodHub earns revenue through commissions on orders, meaning higher order volumes directly increase profits. 
 Therefore, the key question was: <u>What are the customers' preferences?</u> By answering this question, we aim to better understand how to attract and retain more customers.   
@@ -10,6 +12,7 @@ The dataset included nearly 1,900 customer orders. Customer feedback could have 
 - Direct: Ratings (1 – 5),
 - Indirect: Number of orders placed (popularity).
 Analyzing these factors and their relationships with the collected data provides insights into possible business development directions.
+</div>
 
 ### Conclusions:
 - <u>The most popular cuisine is American</u> (30.87%), followed by Japanese, Italian, and Chinese, which together cover 83% of all orders.
