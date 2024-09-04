@@ -9,7 +9,8 @@ and is a part of my ![e-portfolio.](https://olympus.mygreatlearning.com/eportfol
 - Statistics
 ---
 **Used Libraries**
-- Data manipulation:  
+
+- Data Manipulation:  
 **numpy**, **pandas**, **datetime**
 
 - Data Visualization:  
