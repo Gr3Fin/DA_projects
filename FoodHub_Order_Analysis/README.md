@@ -3,14 +3,14 @@ The *FoodHub order analysis* project was one of the rated projects I acomplished
 and is a part of my ![e-portfolio.](https://olympus.mygreatlearning.com/eportfolio)
 
 ---
-**Skills and tool covered**
+**Skills and Tools Covered**
 - EDA
 - Data Visualization
 - Statistics
 ---
-**Libraries used**
+**Used Libraries**
 - Data manipulation:  
 **numpy**, **pandas**, **datetime**
 
-- Data visualization:  
+- Data Visualization:  
 **matplotlib.pyplot**, **seaborn**
