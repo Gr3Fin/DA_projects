@@ -1,10 +1,19 @@
-**Boston house price prediction**  
-The *Boston house price prediction* project was one of the rated projects I acomplished during my course for data scientist:  
-*Applied Data Science Program: Leveraging AI for Effective Decision-Making* (May 2024 - August 2024)  
-and is a part of my ![e-portfolio.](https://olympus.mygreatlearning.com/eportfolio)
+
+### **Boston House Price Prediction**
+
+<p align='justyify'>
+The <i>Boston house price prediction</i> project was one of the rated projects I acomplished during my course for data scientist (May 2024 - August 2024):  
+</p>
+
+<p align='center'>
+<i>Applied Data Science Program: Leveraging AI for Effective Decision-Making</i>
+</p>
+
+and is a part of my [e-portfolio.](https://olympus.mygreatlearning.com/eportfolio)
 
 ---
 **Skills and Tools Covered**  
+
 EDA, Data Visualization, Feture Engineering, Multicolinearity, Linear and Non-linear Regression Regression Techniques, Regularization Methods, Decision Trees 
 
 ---
