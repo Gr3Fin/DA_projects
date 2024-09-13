@@ -29,7 +29,7 @@ and is a part of my <a href='https://olympus.mygreatlearning.com/eportfolio'>e-p
 
 **Used Libraries**
 <div aling='center'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices.Python_LR.svg'>
+    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices.PY_LR.svg'>
 </div>
 
 <div aling='center'>
