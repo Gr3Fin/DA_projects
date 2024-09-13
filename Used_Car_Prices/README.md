@@ -26,22 +26,12 @@ and is a part of my [e-portfolio](https://olympus.mygreatlearning.com/eportfolio
 - Regularization Methods
 - Descision Trees
 ---
+
 **Used Libraries**
-<div valign='top'>
 <p aling='center'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_Python.svg'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_LR.svg'>
-</p>
-</div>
-
-<p aling='center'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_LR.svg'>
+    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices.Python_LR.svg'>
 </p>
 
 <p aling='center'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_DT.svg'>
-</p>
-
-<p aling='center'>
-    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_CrossVal.svg'>
+    <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_DT_CV.svg'>
 </p>
