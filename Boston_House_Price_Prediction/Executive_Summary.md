@@ -3,6 +3,7 @@
 ### Problem summary
 <div align= "justify">
 The primary objective of this project was to predict housing prices in various suburbs or towns in Boston based on specific locality features. This involved addressing two critical questions:
+  
 1.	**Accuracy of Predictions:** How accurately can we predict housing prices based on the provided criteria?
 2.	**Influential Factors:** What are the key factors that significantly influence housing prices?
 
