@@ -28,10 +28,10 @@ and is a part of my <a href='https://olympus.mygreatlearning.com/eportfolio'>e-p
 ---
 
 **Used Libraries**
-<p aling='center'>
+<div aling='center'>
     <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices.Python_LR.svg'>
-</p>
+</div>
 
-<p aling='center'>
+<div aling='center'>
     <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/Used%20Car%20Prices-Used%20Car%20Prices_DT_CV.svg'>
-</p>
+</div>
