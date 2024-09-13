@@ -14,11 +14,25 @@ and is a part of my [e-portfolio.](https://olympus.mygreatlearning.com/eportfoli
 
 ---
 **Skills and Tools Covered**  
-
-EDA, Data Visualization, Feture Engineering, Multicolinearity, Linear and Non-linear Regression Regression Techniques, Regularization Methods, Decision Trees 
+- EDA,
+- Data Visualization,
+- Feture Engineering,
+- Multicolinearity,
+- Linear and Non-linear Regression
+- Regression Techniques,
+- Regularization Methods,
+- Decision Trees 
 
 ---
 **Used Libraries**  
+
+<p align='center'>
+  <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Boston_House_Price_Prediction/images/Used%20Car%20Prices-Used%20Car%20Prices.PY_LR.svg'>
+</p>
+
+<p align='center'>
+  <img src='https://github.com/Gr3Fin/DA_projects/blob/main/Boston_House_Price_Prediction/images/Used%20Car%20Prices-Used%20Car%20Prices_DT_CV.svg'>
+</p>
 
 - Data Manipulation  
 &nbsp; **pandas**, **numpy**
