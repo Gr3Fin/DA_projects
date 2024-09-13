@@ -32,7 +32,7 @@ and is a part of my [e-portfolio.](https://olympus.mygreatlearning.com/eportfoli
                 <li>datetime</li>
             </ul>
         </td>
-        <td>
+        <td valign='top'>
             <ul>
                 <li>matplotlib.pyplot</li>
                 <li>seaborn</li>
