@@ -19,8 +19,24 @@ and is a part of my [e-portfolio.](https://olympus.mygreatlearning.com/eportfoli
 ---
 **Used Libraries**
 
-- Data Manipulation:  
-**numpy**, **pandas**, **datetime**
-
-- Data Visualization:  
-**matplotlib.pyplot**, **seaborn**
+<table>
+    <tr>
+        <th>Data Manipulation:</th>
+        <th>Data Visualization</th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>numpy</li>
+                <li>pandas</li>
+                <li>datetime</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>matplotlib.pyplot</li>
+                <li>seaborn</li>
+            </ul>
+        </td>
+    </tr>
+</table>
