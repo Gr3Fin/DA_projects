@@ -19,7 +19,9 @@ To maximize the model's potential and profitability, it is advisable to address 
 Recent trends in the Indian car market indicate a notable shift from new car purchases to pre-owned vehicles. Although both segments are growing, the surge in the popularity of used cars is particularly significant, with sales projected to reach <b>8.2 million</b> units by FY2025 [1, 2].
 </p>
 
-<img style='align: center' src='' title='sales new vs used cars'>
+<p align='center'>
+<img src='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/images/sales_used_new.png' title='sales new vs used cars'>
+</p>
 
 <p>
 This business potential has been recognized by major players such as <b>Suzuki, Mahindra, Volkswagen, Audi, BMW</b>, and <b>Porsche</b> [1, 3, 5] as well as by online automotive marketplaces like <b>OLX Autos</b> or <b>CarTrade</b>, which number is increasing rapidly across India.<br>
@@ -71,13 +73,14 @@ The current model for predicting used car prices performs well and serves as a r
     <li>Price Adjustment Mechanism</li>
     <li>Enhance Customer Experience</li>
     <li>Future Trends Monitoring</li>
+</ul>
 
 ### Bibliography
-1.	[Autocar India]('https://www.autocarindia.com/car-news/used-car-market-to-be-twice-as-big-as-new-car-segment-by-fy2025-421140')
-2.	[HT Auto]('https://auto.hindustantimes.com/auto/cars/whats-pushing-india-s-used-car-market-explained-here-41640687279207.html')
-3.	[Mordor Intelligence]('https://www.mordorintelligence.com/industry-reports/india-used-car-market/market-trends')
-4.	[LeadSquared]('https://www.leadsquared.com/industries/automotive/used-car-market-trends/')
-5.	[6Wresearch]('https://www.6wresearch.com/industry-report/india-used-car-market-2020-2026')
-6.	[CarWale]('https://www.carwale.com/')
-7.	[CarDekho]('https://www.cardekho.com/')
-8.	[ZigWheels]('https://www.zigwheels.com/')
+1.	[Autocar India](https://www.autocarindia.com/car-news/used-car-market-to-be-twice-as-big-as-new-car-segment-by-fy2025-421140)
+2.	[HT Auto](https://auto.hindustantimes.com/auto/cars/whats-pushing-india-s-used-car-market-explained-here-41640687279207.html)
+3.	[Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/india-used-car-market/market-trends)
+4.	[LeadSquared](https://www.leadsquared.com/industries/automotive/used-car-market-trends/)
+5.	[6Wresearch](https://www.6wresearch.com/industry-report/india-used-car-market-2020-2026)
+6.	[CarWale](https://www.carwale.com/)
+7.	[CarDekho](https://www.cardekho.com/)
+8.	[ZigWheels](https://www.zigwheels.com/)
