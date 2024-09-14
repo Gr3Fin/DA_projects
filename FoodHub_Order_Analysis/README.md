@@ -1,4 +1,4 @@
-### FoodHub Order Analysis
+## FoodHub Order Analysis
 
 <p align='justify'>
 The <i>FoodHub order analysis</i> project was one of the rated projects I acomplished during my course for data scientist (May 2024 - August 2024):
