@@ -10,9 +10,13 @@ The <i>Used Car Prices</i> project was the capstone project I acomplished during
 </p>
 
 <p>
-and is a part of my <a href='https://olympus.mygreatlearning.com/eportfolio'>e-portfolio</a>
+and is a part of my <a href='https://olympus.mygreatlearning.com/eportfolio'>e-portfolio.</a>
 </p>
-<p>The final report can be found <a href='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/files/Final%20Report_Used%20Cars_Cars4U_Final.pdf' title='Final Report pfd'>here</a>. For its short version refer to <a href='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/Executive_Summary.md'><i>Executive_Summary.md</i></a>
+
+<p>The final report can be found <a href='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/files/Final%20Report_Used%20Cars_Cars4U_Final.pdf' title='Final Report pfd'>here</a>. 
+For its short version refer to <a href='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/Executive_Summary.md'><i>Executive_Summary</i></a>
+    
+<p>The final presentation can be found <a href='https://github.com/Gr3Fin/DA_projects/blob/main/Used_Car_Prices/files/Capstone%20presetnation_Final.pdf'>here.</a></p>
 
 ---
 **Skills and Tools Covered**
