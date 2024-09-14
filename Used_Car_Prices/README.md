@@ -1,4 +1,4 @@
-### Used Car Prices
+## Used Car Prices
 
 <p align='justify'>
 The <i>Used Car Prices</i> project was the capstone project I acomplished during my course for data scientist (May 2024 - August 2024):
