@@ -81,6 +81,3 @@ The current model for predicting used car prices performs well and serves as a r
 3.	[Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/india-used-car-market/market-trends)
 4.	[LeadSquared](https://www.leadsquared.com/industries/automotive/used-car-market-trends/)
 5.	[6Wresearch](https://www.6wresearch.com/industry-report/india-used-car-market-2020-2026)
-6.	[CarWale](https://www.carwale.com/)
-7.	[CarDekho](https://www.cardekho.com/)
-8.	[ZigWheels](https://www.zigwheels.com/)

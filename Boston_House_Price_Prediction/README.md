@@ -1,5 +1,4 @@
-
-### **Boston House Price Prediction**
+## **Boston House Price Prediction**
 
 <p align='justyify'>
 The <i>Boston house price prediction</i> project was one of the rated projects I acomplished during my course for data scientist (May 2024 - Aug 2024):  
